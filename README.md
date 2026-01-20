@@ -56,16 +56,17 @@
 
 ---
 
+## 📫 Contact
+
+- **Email**: [soodal9494@naver.com](mailto:soodal9494@naver.com) | [LinkedIn](https://www.linkedin.com/in/sangwon-seo-data) | [GitHub](https://github.com/sangwonseo-data)
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangwonseo-data&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo-data&layout=compact&theme=tokyonight&hide_border=true" width="41%">
 </p>
 
----
-
-## 📫 Contact
-
-- **Email**: [soodal9494@naver.com](mailto:soodal9494@naver.com) | [LinkedIn](https://www.linkedin.com/in/sangwon-seo-data) | [GitHub](https://github.com/sangwonseo-data)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sangwonseo-data.sangwonseo-data" alt="Visitors">
